@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1c83c0</color>
+    <color name="colorPrimaryDark">#063f5e</color>
+    <color name="colorAccent">#6fb350</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="slider_1">#923cc3</color>
+    <color name="slider_2">#1e97d9</color>
+    <color name="slider_3">#f13842</color>
+    <color name="green">#28683f</color>
+</resources>
